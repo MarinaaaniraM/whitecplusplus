@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F41819321FF188F001156D7 /* week_2_move_strings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F41819221FF188F001156D7 /* week_2_move_strings.cpp */; };
+		0F41819521FF1CB5001156D7 /* week_2_reverse.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F41819421FF1CB5001156D7 /* week_2_reverse.cpp */; };
+		0F41819721FF3B9B001156D7 /* week_2_queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F41819621FF3B9B001156D7 /* week_2_queue.cpp */; };
+		0F41819921FF4E22001156D7 /* week_2_tasks_list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F41819821FF4E22001156D7 /* week_2_tasks_list.cpp */; };
 		0F4CF2EA21FF09250072ED6A /* week_1_equation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F4CF2E221FF09250072ED6A /* week_1_equation.cpp */; };
 		0F4CF2EB21FF09250072ED6A /* week_1_min_string.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F4CF2E321FF09250072ED6A /* week_1_min_string.cpp */; };
 		0F4CF2EC21FF09250072ED6A /* week_1_binary_numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F4CF2E421FF09250072ED6A /* week_1_binary_numbers.cpp */; };
@@ -31,6 +35,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0F41819221FF188F001156D7 /* week_2_move_strings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = week_2_move_strings.cpp; sourceTree = "<group>"; };
+		0F41819421FF1CB5001156D7 /* week_2_reverse.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = week_2_reverse.cpp; sourceTree = "<group>"; };
+		0F41819621FF3B9B001156D7 /* week_2_queue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = week_2_queue.cpp; sourceTree = "<group>"; };
+		0F41819821FF4E22001156D7 /* week_2_tasks_list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = week_2_tasks_list.cpp; sourceTree = "<group>"; };
 		0F4CF2E221FF09250072ED6A /* week_1_equation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = week_1_equation.cpp; sourceTree = "<group>"; };
 		0F4CF2E321FF09250072ED6A /* week_1_min_string.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = week_1_min_string.cpp; sourceTree = "<group>"; };
 		0F4CF2E421FF09250072ED6A /* week_1_binary_numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = week_1_binary_numbers.cpp; sourceTree = "<group>"; };
@@ -73,6 +81,7 @@
 		0FC5713921FF086B00197761 /* whitecplusplus */ = {
 			isa = PBXGroup;
 			children = (
+				0FC5713A21FF086B00197761 /* main.cpp */,
 				0F4CF2E821FF09250072ED6A /* week_1_a+b.cpp */,
 				0F4CF2E421FF09250072ED6A /* week_1_binary_numbers.cpp */,
 				0F4CF2E221FF09250072ED6A /* week_1_equation.cpp */,
@@ -81,7 +90,10 @@
 				0F4CF2E921FF09250072ED6A /* week_1_second_entry.cpp */,
 				0F4CF2E521FF09250072ED6A /* week_2_factorial.cpp */,
 				0F4CF2E621FF09250072ED6A /* week_2_palindrom.cpp */,
-				0FC5713A21FF086B00197761 /* main.cpp */,
+				0F41819221FF188F001156D7 /* week_2_move_strings.cpp */,
+				0F41819421FF1CB5001156D7 /* week_2_reverse.cpp */,
+				0F41819621FF3B9B001156D7 /* week_2_queue.cpp */,
+				0F41819821FF4E22001156D7 /* week_2_tasks_list.cpp */,
 			);
 			path = whitecplusplus;
 			sourceTree = "<group>";
@@ -146,6 +158,10 @@
 				0FC5713B21FF086B00197761 /* main.cpp in Sources */,
 				0F4CF2EC21FF09250072ED6A /* week_1_binary_numbers.cpp in Sources */,
 				0F4CF2EB21FF09250072ED6A /* week_1_min_string.cpp in Sources */,
+				0F41819321FF188F001156D7 /* week_2_move_strings.cpp in Sources */,
+				0F41819521FF1CB5001156D7 /* week_2_reverse.cpp in Sources */,
+				0F41819721FF3B9B001156D7 /* week_2_queue.cpp in Sources */,
+				0F41819921FF4E22001156D7 /* week_2_tasks_list.cpp in Sources */,
 				0F4CF2ED21FF09250072ED6A /* week_2_factorial.cpp in Sources */,
 				0F4CF2EA21FF09250072ED6A /* week_1_equation.cpp in Sources */,
 				0F4CF2F121FF09250072ED6A /* week_1_second_entry.cpp in Sources */,
